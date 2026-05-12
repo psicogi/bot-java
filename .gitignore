@@ -1,0 +1,10 @@
+target/
+
+.idea/
+*.iml
+out/
+
+src/main/resources/application.properties
+
+*.log
+.DS_Store
